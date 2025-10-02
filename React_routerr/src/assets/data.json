@@ -1,0 +1,25 @@
+{
+    "jobs": [
+        {
+            "id": "1",
+            "title": "Frontend Developer",
+            "location": "New York, NY",
+            "type": "Full-time",
+            "description": "We are looking for a skilled frontend developer to join our team."
+        },
+        {
+            "id": "2",
+            "title": "Backend Developer",
+            "location": "San Francisco, CA",
+            "type": "Part-time",
+            "description": "Seeking an experienced backend developer with knowledge of Node.js and databases."
+        },
+        {
+            "id": "3",
+            "title": "UI/UX Designer",
+            "location": "Remote",
+            "type": "Contract",
+            "description": "Creative UI/UX designer needed for a 3-month contract to work on web and mobile applications."
+        }
+    ]
+}
